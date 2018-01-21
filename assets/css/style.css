@@ -1,0 +1,24 @@
+/* CSS stylesheet */
+
+body {
+	margin: 1%;
+}
+
+h1 {
+	font-family: "Georgia", sans-serif;
+	color: #555;
+	font-size: 1.5em;
+	text-decoration: underline;
+}
+
+h4 {
+	font-family: "Georgia", sans-serif;
+	color: #bbb;
+	font-size: 1em;	
+	padding-top: 1%;
+}
+
+#header {
+	font-family: "Georgia", sans-serif;
+	color: #aaa;
+}
