@@ -1,24 +1,47 @@
-/* CSS stylesheet */
+	/* CSS stylesheet */
 
-body {
-	margin: 1%;
-}
+	body {
+		margin: 1%;
+		background-color: #eee;
+	}
 
-h1 {
-	font-family: "Georgia", sans-serif;
-	color: #555;
-	font-size: 1.5em;
-	text-decoration: underline;
-}
+	h1 {
+		font-family: "Georgia", sans-serif;
+		color: #111;
+		font-size: 1.5em;
+		text-decoration: underline;
+		text-align: center;
+	}
 
-h4 {
-	font-family: "Georgia", sans-serif;
-	color: #bbb;
-	font-size: 1em;	
-	padding-top: 1%;
-}
+	h4 {
+		font-family: "Georgia", sans-serif;
+		color: #ddd;
+		font-size: 1em;
+		padding-top: 1%;
+		text-align: center;
+	}
 
-#header {
-	font-family: "Georgia", sans-serif;
-	color: #aaa;
-}
+	img {
+		border-radius: 0.8;
+	}
+
+	#header {
+		font-family: "Georgia", sans-serif;
+		color: #ddd;
+	}
+
+	#image {
+		position: relative;
+		left: 35%;
+		display: inline;
+	}
+
+	#content {
+		position: absolute;
+		background-color: #8c7b96;
+		padding: 1%;
+		left: 25%;
+		bottom: 750%;
+		display: inline;
+		/* width:  */
+	}
